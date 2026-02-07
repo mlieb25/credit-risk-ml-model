@@ -1,6 +1,8 @@
-# Credit Risk ML Model – Home Credit Style (Emerging Europe)
+# Credit Risk ML Model – Home Credit (Emerging Europe)
 
 This project implements an end‑to‑end **consumer credit risk model** inspired by the *Home Credit – Credit Risk Model Stability* competition. **Home Credit** operates across **Central \& Eastern Europe** (Czech Republic, Poland, Slovakia, Russia, Kazakhstan, etc.), focusing on **unbanked and near-prime customers**—people with little or no credit history who need affordable installment loans for **smartphones, appliances, and household goods**.
+
+Home Credit Kaggle competition page: https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/overview
 
 The repository demonstrates the full lifecycle of a **production-grade, temporally stable model** designed for Home Credit's core business: **financial inclusion for emerging market consumers**.
 
