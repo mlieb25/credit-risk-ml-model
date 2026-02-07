@@ -1,16 +1,8 @@
-# Credit Risk ML Model – Home Credit Style (US Immigrant \& Student Loans)
+# Credit Risk ML Model – Home Credit Style (Emerging Europe)
 
-This project implements an end‑to‑end **consumer credit risk model** inspired by the *Home Credit – Credit Risk Model Stability* competition. The focus is on building a **production‑grade, temporally stable model** for **US immigrants and international students** using real‑world style loan application data.
+This project implements an end‑to‑end **consumer credit risk model** inspired by the *Home Credit – Credit Risk Model Stability* competition. **Home Credit** operates across **Central \& Eastern Europe** (Czech Republic, Poland, Slovakia, Russia, Kazakhstan, etc.), focusing on **unbanked and near-prime customers**—people with little or no credit history who need affordable installment loans for **smartphones, appliances, and household goods**.
 
-The repository demonstrates the full lifecycle of a credit risk model:
-
-- Exploratory Data Analysis (EDA) on a massive, multi‑table dataset
-- Data reduction and risk‑focused aggregation
-- Master feature merging and memory optimization
-- Time‑aware train/test splitting and preprocessing
-- Baseline (no‑ML) benchmarks
-- Gradient boosting model selection (LightGBM) with temporal CV
-- Final evaluation and prediction driver (SHAP) analysis
+The repository demonstrates the full lifecycle of a **production-grade, temporally stable model** designed for Home Credit's core business: **financial inclusion for emerging market consumers**.
 
 ***
 
