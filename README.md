@@ -4,6 +4,16 @@ This project implements an end‑to‑end **consumer credit risk model** inspire
 
 The repository demonstrates the full lifecycle of a **production-grade, temporally stable model** designed for Home Credit's core business: **financial inclusion for emerging market consumers**.
 
+The repository demonstrates the full lifecycle of a credit risk model:
+
+- Exploratory Data Analysis (EDA) on a massive, multi‑table dataset
+- Data reduction and risk‑focused aggregation
+- Master feature merging and memory optimization
+- Time‑aware train/test splitting and preprocessing
+- Baseline (no‑ML) benchmarks
+- Gradient boosting model selection (LightGBM) with temporal CV
+- Final evaluation and prediction driver (SHAP) analysis
+
 ***
 
 ## 1. Repository Structure
