@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Final Model Evaluation Script
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 2026
 
 This script evaluates the trained Credit Risk model on the held-out Test Set.
