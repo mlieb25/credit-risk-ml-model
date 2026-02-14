@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Time-Series Sort and Split Script
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 2026
 
 This script prepares the credit risk data for ML training by:
