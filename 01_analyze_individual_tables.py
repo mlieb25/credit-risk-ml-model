@@ -5,7 +5,7 @@ BAIT 509 Final Project - Home Credit Risk Model
 This script analyzes each CSV file in the train folder separately,
 producing summary statistics and data profiles for each table.
 
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 17, 2026
 """
 
