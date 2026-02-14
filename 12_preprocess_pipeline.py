@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Preprocessing Pipeline Script
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 2026
 
 This script performs the standard ML preprocessing steps:
