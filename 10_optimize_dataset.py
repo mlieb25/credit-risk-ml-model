@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Dataset Optimization and Size Reduction Script
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 2026
 
 This script performs "safe" optimizations on the credit risk dataset:
