@@ -8,7 +8,7 @@ Analyzes:
 
 Focus: Understanding cardinality, aggregation strategies, and Character features
 
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 17, 2026
 """
 
