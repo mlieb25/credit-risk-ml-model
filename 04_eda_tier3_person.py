@@ -3,7 +3,7 @@ Tier 1.3 EDA: train_person_1.csv Analysis
 BAIT 509 Final Project - Home Credit Risk Model
 
 Analyzes: Demographics, Income, and Employment (Conditions & Capacity)
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 17, 2026
 """
 
