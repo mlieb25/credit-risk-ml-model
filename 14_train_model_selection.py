@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Model Selection & Temporal Cross-Validation Script
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 2026
 
 This script implements a robust model selection pipeline:
