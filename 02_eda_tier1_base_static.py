@@ -6,7 +6,7 @@ Analyzes:
 1. train_base.csv - Target distribution and temporal structure
 2. train_static_0_0.csv - Core features, missing values, distributions
 
-Author: Mitchell Stevens
+Author: Mitchell Liebrecht
 Date: January 17, 2026
 """
 
